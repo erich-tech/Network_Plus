@@ -1,7 +1,7 @@
 # Overview
 [CompTIA Network+](https://www.comptia.org/certifications/network) validates the technical skills needed to securely establish, maintain and troubleshoot the essential networks that businesses rely on. It prepares candidates to support networks on any platform. CompTIA Network+ is the only certification that covers the specific skills that network professionals need.
 
-This repository provides notes that I've constructed while studying for the A+ exam. These notes are designed to be supplementary study material. This repository is in no way affiliated with CompTIA or Pearson VUE and makes no guarantees of accuracy or completeness.
+This repository provides notes that I've constructed while studying for the Network+ exam. These notes are designed to be supplementary study material. This repository is in no way affiliated with CompTIA or Pearson VUE and makes no guarantees of accuracy or completeness.
 
 Exam objectives: https://www.comptia.org/training/resources/exam-objectives
 
