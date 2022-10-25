@@ -9,6 +9,6 @@
 |4.5 | [Given a scenario, implement network device hardening.](https://github.com/erich-tech/Network_Plus/tree/main/Domain_4#readme) |
 |4.6 | [Explain common mitigation techniques and their purposes.](https://github.com/erich-tech/Network_Plus/tree/main/Domain_4#readme) |
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
