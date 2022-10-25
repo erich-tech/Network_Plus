@@ -9,6 +9,6 @@
 |5.5 | [Given a scenario, troubleshoot common network service issues.](https://github.com/erich-tech/Network_Plus/tree/main/Domain_5#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
