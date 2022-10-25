@@ -9,6 +9,6 @@
 |3.5 | [Identify policies and best practices.](https://github.com/erich-tech/Network_Plus/tree/main/Domain_3#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
