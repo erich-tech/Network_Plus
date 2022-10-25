@@ -9,7 +9,7 @@
 |2.5 | [Compare and contrast WAN technologies.](https://github.com/erich-tech/Network_Plus/tree/main/Domain_2#readme) |
 
 ```
-NOTE: Work in progress. Please come back again soon! 
+NOTE: Currently in development. Please check back soon! 
 ```
 
 
